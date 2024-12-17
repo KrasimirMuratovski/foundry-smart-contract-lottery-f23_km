@@ -1,0 +1,17 @@
+Compiling 47 files with Solc 0.8.19
+Solc 0.8.19 finished in 30.31s
+Compiler run successful!
+Analysing contracts...
+Running tests...
+
+Ran 1 test for test/unit/RaffleTest.t.sol:RaffleTest
+[FAIL: EvmError: Revert] setUp() (gas: 0)
+Suite result: FAILED. 0 passed; 1 failed; 0 skipped; finished in 27.17ms (0.00ns CPU time)
+
+Ran 1 test suite in 580.94ms (27.17ms CPU time): 0 tests passed, 1 failed, 0 skipped (1 total tests)
+
+Failing tests:
+Encountered 1 failing test in test/unit/RaffleTest.t.sol:RaffleTest
+[FAIL: EvmError: Revert] setUp() (gas: 0)
+
+Encountered a total of 1 failing tests, 0 tests succeeded
